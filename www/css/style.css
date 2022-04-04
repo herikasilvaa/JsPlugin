@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #F2F2F2;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50%;
+}
+
+input{
+    padding: 10px 10px;
+    border: none;
+}
+
+.btn{
+    padding: 5px 10px;
+    width: 100%;
+    border: none;
+    color: #F2F2F2;
+    background: #0174A2;
+    cursor: pointer;
+}
+
+.btn_2{
+    padding: 5px 10px;
+    width: 100%;
+    border: none;
+    color: #F2F2F2;
+    background: #29ABAB;
+    cursor: pointer;
+}
+
+
